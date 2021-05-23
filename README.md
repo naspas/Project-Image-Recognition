@@ -1,4 +1,11 @@
 # Project-Image-Recognition
+# ชื่อกลุ่ม แอนฟิล์ดนรกทีมเยือน
+# รายชื่อสมาชิก
+  1.
+  2.
+  3.
+  4.
+  
 # Project 2
 วิธี Run Code
 python handcraft_based.py
