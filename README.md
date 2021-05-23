@@ -25,4 +25,4 @@ python handcraft_based.py
 
 ### วิธีการเปลี่ยนรูป Dataset
 สำหรับ Train <br />
-![path_train](D:\Image\Pic_Result\เปลี่ยน path_train.png)
+![path_train](https://imgur.com/AsTOJpX)
